@@ -6,5 +6,3 @@
 2. 약속된 날짜에 commit을 한다.
 3. 각자 할당량을 한 후 refactoring
 
-
-
