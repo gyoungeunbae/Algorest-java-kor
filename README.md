@@ -13,3 +13,9 @@
 3. 각자 할당량을 한 후 Refactoring
 
 
+
+
+### 2. Goal
+
+​	1. 개인 Skill up
+
