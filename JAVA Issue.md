@@ -1,4 +1,4 @@
-# ****JAVA Issue
+# JAVA Issue
 
 #### 1. Eclipse console doesn't show the whole output.
 
