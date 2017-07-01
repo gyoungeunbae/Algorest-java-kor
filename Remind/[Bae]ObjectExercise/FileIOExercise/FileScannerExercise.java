@@ -1,7 +1,7 @@
 package FileManager;
 import java.io.*;
 import java.util.*;
-public class FileScannerExample {
+public class FileScannerExercise {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
