@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.pc.tutorial10.MainActivity">
+
+    <!--<Button-->
+        <!--android:layout_column="0"-->
+        <!--android:layout_row="0"-->
+        <!--android:layout_rowSpan="2"-->
+        <!--android:layout_gravity="fill_vertical"-->
+        <!--android:text="가"-->
+        <!--/>-->
+
+    <!--<Button-->
+        <!--android:layout_column="1"-->
+        <!--android:layout_row="0"-->
+        <!--android:layout_columnSpan="3"-->
+        <!--android:layout_gravity="fill_horizontal"-->
+        <!--android:text="나"-->
+        <!--/>-->
+    <!--<Button-->
+        <!--android:layout_column="2"-->
+        <!--android:layout_row="1"-->
+        <!--android:text="다"-->
+        <!--/>-->
+   <!--<Button-->
+        <!--android:layout_width="100dp"-->
+        <!--android:layout_height="100dp"-->
+        <!--android:layout_alignParentTop="true"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:text="상"-->
+        <!--/>-->
+
+    <!--<Button-->
+        <!--android:layout_width="100dp"-->
+        <!--android:layout_height="100dp"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:text="하"-->
+        <!--/>-->
+        <!--<TableRow>-->
+            <!--<Button-->
+                <!--android:text="가"-->
+                <!--/>-->
+            <!--<Button-->
+                <!--android:text="나"-->
+                <!--android:layout_span="1"-->
+                <!--/>-->
+            <!--<Button-->
+                <!--android:text="다"-->
+                <!--/>-->
+            <!--</TableRow>-->
+        <!--<TableRow>-->
+            <!--<Button-->
+                <!--android:layout_column="2"-->
+                <!--android:text="라"-->
+                <!--/>-->
+            <!--<Button-->
+                <!--android:text="마"-->
+                <!--&lt;!&ndash;/>&ndash;&gt;
+     <RatingBar-->
+    <!--android:layout_width="30dp"-->
+    <!--android:layout_height="100dp"-->
+    <!--/>-->
+    <!--<TextView-->
+        <!--android:layout_width="100dp"-->
+        <!--android:layout_height="100dp"-->
+        <!--android:text="가"-->
+        <!--/>-->
+
+            <!--</TableRow>-->
+
+    <Button
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:text="버튼"
+    />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="텍스트뷰"
+        />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="체크 박스"
+        />
+
+</LinearLayout>
